@@ -1,3 +1,6 @@
+# This repo has been moved to hmt-escrow
+
+
 # HUMAN Escrow Factory Dashboard
 
 This is a readonly dashboard of the [Escrow Factory](https://github.com/humanprotocol/hmt-escrow/blob/master/contracts/EscrowFactory.sol) contract
